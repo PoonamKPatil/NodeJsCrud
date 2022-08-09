@@ -6,17 +6,17 @@ Node js
 npm
 sequelize-cli
 # Steps:
-npm install
-npx sequelize-cli db:migrate
-npm run dev
+npm install <br />
+npx sequelize-cli db:migrate <br />
+npm run dev <br />
 
 # APIs:
-GET: /users
-POST: /users
-PUT: /users/uuid 
-DELETE: /users/uuid
-GET: /users/uuid
-GET: /posts
+GET: /users <br />
+POST: /users <br />
+PUT: /users/uuid  <br />
+DELETE: /users/uuid <br />
+GET: /users/uuid <br />
+GET: /posts <br />
 
-
+<br />
 File config/config.json contains database configuration based on environment
